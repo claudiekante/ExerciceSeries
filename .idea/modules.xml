@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CoursPHP/.idea/CoursModule2.iml" filepath="$PROJECT_DIR$/../CoursPHP/.idea/CoursModule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Module05/.idea/Module05.iml" filepath="$PROJECT_DIR$/../Module05/.idea/Module05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TPmodule03/.idea/TPmodule03.iml" filepath="$PROJECT_DIR$/../TPmodule03/.idea/TPmodule03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TPmodule04/.idea/TPmodule04.iml" filepath="$PROJECT_DIR$/../TPmodule04/.idea/TPmodule04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TPmodule2/.idea/TPmodule2.iml" filepath="$PROJECT_DIR$/../TPmodule2/.idea/TPmodule2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Test.iml" filepath="$PROJECT_DIR$/.idea/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../series/.idea/series.iml" filepath="$PROJECT_DIR$/../series/.idea/series.iml" />
+    </modules>
+  </component>
+</project>
